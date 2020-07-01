@@ -33,8 +33,6 @@ pip install opencv-contrib-python
 
 김준혁 – wnsgur1198@naver.com
 
-[https://github.com/wnsgur1198/opencv-test/]
-
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)

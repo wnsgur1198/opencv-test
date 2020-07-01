@@ -26,7 +26,7 @@ pip install opencv-contrib-python
 ## Release History
 
 * 1.0.0
-    * First Commit
+    * first commit
     * 실습 완료
 
 ## Meta
